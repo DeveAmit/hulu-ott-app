@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hulu-ott-app.git/static/css/main.9673f0a0.chunk.css",
+    "main.js": "/hulu-ott-app.git/static/js/main.67380ff2.chunk.js",
+    "main.js.map": "/hulu-ott-app.git/static/js/main.67380ff2.chunk.js.map",
+    "runtime-main.js": "/hulu-ott-app.git/static/js/runtime-main.098b6e4d.js",
+    "runtime-main.js.map": "/hulu-ott-app.git/static/js/runtime-main.098b6e4d.js.map",
+    "static/css/2.fe5ac6bf.chunk.css": "/hulu-ott-app.git/static/css/2.fe5ac6bf.chunk.css",
+    "static/js/2.34c3943e.chunk.js": "/hulu-ott-app.git/static/js/2.34c3943e.chunk.js",
+    "static/js/2.34c3943e.chunk.js.map": "/hulu-ott-app.git/static/js/2.34c3943e.chunk.js.map",
+    "index.html": "/hulu-ott-app.git/index.html",
+    "static/css/2.fe5ac6bf.chunk.css.map": "/hulu-ott-app.git/static/css/2.fe5ac6bf.chunk.css.map",
+    "static/css/main.9673f0a0.chunk.css.map": "/hulu-ott-app.git/static/css/main.9673f0a0.chunk.css.map",
+    "static/js/2.34c3943e.chunk.js.LICENSE.txt": "/hulu-ott-app.git/static/js/2.34c3943e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.098b6e4d.js",
+    "static/css/2.fe5ac6bf.chunk.css",
+    "static/js/2.34c3943e.chunk.js",
+    "static/css/main.9673f0a0.chunk.css",
+    "static/js/main.67380ff2.chunk.js"
+  ]
+}
