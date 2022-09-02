@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hulu-ott-app.git/static/css/main.9673f0a0.chunk.css",
-    "main.js": "/hulu-ott-app.git/static/js/main.67380ff2.chunk.js",
-    "main.js.map": "/hulu-ott-app.git/static/js/main.67380ff2.chunk.js.map",
-    "runtime-main.js": "/hulu-ott-app.git/static/js/runtime-main.098b6e4d.js",
-    "runtime-main.js.map": "/hulu-ott-app.git/static/js/runtime-main.098b6e4d.js.map",
-    "static/css/2.fe5ac6bf.chunk.css": "/hulu-ott-app.git/static/css/2.fe5ac6bf.chunk.css",
-    "static/js/2.34c3943e.chunk.js": "/hulu-ott-app.git/static/js/2.34c3943e.chunk.js",
-    "static/js/2.34c3943e.chunk.js.map": "/hulu-ott-app.git/static/js/2.34c3943e.chunk.js.map",
-    "index.html": "/hulu-ott-app.git/index.html",
-    "static/css/2.fe5ac6bf.chunk.css.map": "/hulu-ott-app.git/static/css/2.fe5ac6bf.chunk.css.map",
-    "static/css/main.9673f0a0.chunk.css.map": "/hulu-ott-app.git/static/css/main.9673f0a0.chunk.css.map",
-    "static/js/2.34c3943e.chunk.js.LICENSE.txt": "/hulu-ott-app.git/static/js/2.34c3943e.chunk.js.LICENSE.txt"
+    "main.css": "/hulu-ott-app/static/css/main.9673f0a0.chunk.css",
+    "main.js": "/hulu-ott-app/static/js/main.8387ee3c.chunk.js",
+    "main.js.map": "/hulu-ott-app/static/js/main.8387ee3c.chunk.js.map",
+    "runtime-main.js": "/hulu-ott-app/static/js/runtime-main.a3a55a18.js",
+    "runtime-main.js.map": "/hulu-ott-app/static/js/runtime-main.a3a55a18.js.map",
+    "static/css/2.fe5ac6bf.chunk.css": "/hulu-ott-app/static/css/2.fe5ac6bf.chunk.css",
+    "static/js/2.9e0a5819.chunk.js": "/hulu-ott-app/static/js/2.9e0a5819.chunk.js",
+    "static/js/2.9e0a5819.chunk.js.map": "/hulu-ott-app/static/js/2.9e0a5819.chunk.js.map",
+    "index.html": "/hulu-ott-app/index.html",
+    "static/css/2.fe5ac6bf.chunk.css.map": "/hulu-ott-app/static/css/2.fe5ac6bf.chunk.css.map",
+    "static/css/main.9673f0a0.chunk.css.map": "/hulu-ott-app/static/css/main.9673f0a0.chunk.css.map",
+    "static/js/2.9e0a5819.chunk.js.LICENSE.txt": "/hulu-ott-app/static/js/2.9e0a5819.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.098b6e4d.js",
+    "static/js/runtime-main.a3a55a18.js",
     "static/css/2.fe5ac6bf.chunk.css",
-    "static/js/2.34c3943e.chunk.js",
+    "static/js/2.9e0a5819.chunk.js",
     "static/css/main.9673f0a0.chunk.css",
-    "static/js/main.67380ff2.chunk.js"
+    "static/js/main.8387ee3c.chunk.js"
   ]
 }
