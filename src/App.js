@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Results from "./components/Results";
 import request from "./components/Request";
 
-function App() {
+function App() {   
   const [selectedOption, setSelectedOption] = useState(request.fetchTrending);
 
   return (
